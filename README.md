@@ -1,18 +1,18 @@
-# xcreap
+# xcreep
 
-`xcreap` is an easy wrapper for [`xclip`](https://github.com/astrand/xclip) made in Go.
+`xcreep` is an easy wrapper for [`xclip`](https://github.com/astrand/xclip) made in Go.
 
 ## Usage
 
 To copy the contents of a file, say `example.txt`, to the clipboard:
 ```
-./xcreap example.txt
+./xcreep example.txt
 ```
 
 If you are on a different directory, just use either the absolute or the relative paths to that file:
 ```
-./xcreap /home/root/flag.txt    # absolute path
-./xcreap ../root/flag.txt       # relative path (if you are in /home/some-dir)
+./xcreep /home/root/flag.txt    # absolute path
+./xcreep ../root/flag.txt       # relative path (if you are in /home/some-dir)
 ```
 
 ## Why?
