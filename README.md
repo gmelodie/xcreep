@@ -20,4 +20,5 @@ Because I was tired of (1) having to look up how to copy to clipboard with xclip
 (2) not being able to `cat file.txt > xclip` or `cat file.txt | xclip` or simply `xclip file.txt`
 
 > But you can just make a simple script to wrap xclip
+
 [I know](https://gist.github.com/gmelodie/0830c03eee0addb44073cc93dc02dd94), but it was fun coding it in Go though
