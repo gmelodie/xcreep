@@ -2,6 +2,13 @@
 
 `xcreep` is an easy wrapper for [`xclip`](https://github.com/astrand/xclip) made in Go.
 
+## Installation
+Simply
+
+```
+go get github.com/gmelodie/xcreep
+```
+
 ## Usage
 
 To copy the contents of a file, say `example.txt`, to the clipboard:
