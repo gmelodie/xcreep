@@ -2,18 +2,19 @@
 
 `xcreep` is an easy wrapper for [`xclip`](https://github.com/astrand/xclip) made in Go.
 
-
-![xcreep copy](xcreep-usage-copy.gif)
-![xcreep paste](xcreep-usage-paste.gif)
-
 ## Usage
 
 1. Copy the contents of a file, say `example.txt`, to the clipboard:
 ```
 ./xcreep example.txt
 ```
+![xcreep copy](xcreep-usage-copy.gif)
+
+
 
 2. Paste it wherever you want with CTRL+V or Right-click > Paste.
+![xcreep paste](xcreep-usage-paste.gif)
+
 
 If you are on a different directory, just use either the absolute or the relative paths to that file:
 ```
