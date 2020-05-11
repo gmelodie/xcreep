@@ -13,6 +13,7 @@
 
 
 2. Paste it wherever you want with CTRL+V or Right-click > Paste.
+
 ![xcreep paste](xcreep-usage-paste.gif)
 
 
