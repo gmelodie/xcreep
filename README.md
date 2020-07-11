@@ -2,6 +2,15 @@
 
 `xcreep` is an easy wrapper for [`xclip`](https://github.com/astrand/xclip) made in Go.
 
+
+
+## Installation
+Simply
+
+```
+go get github.com/gmelodie/xcreep
+```
+
 ## Usage
 
 1. Copy the contents of a file, say `example.txt`, to the clipboard:
@@ -21,14 +30,6 @@ If you are on a different directory, just use either the absolute or the relativ
 ```
 ./xcreep /home/root/flag.txt    # absolute path
 ./xcreep ../root/flag.txt       # relative path (if you are in /home/some-dir)
-```
-
-
-## Installation
-Simply
-
-```
-go get github.com/gmelodie/xcreep
 ```
 
 ## Why?
