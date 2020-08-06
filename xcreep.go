@@ -11,7 +11,7 @@ import (
 func main() {
 
 	if len(os.Args) != 2 {
-		fmt.Println("usage: xcreap <INPUT FILE>")
+		fmt.Println("usage: xcreep <INPUT FILE>")
 		os.Exit(1)
 	}
 
